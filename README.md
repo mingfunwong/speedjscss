@@ -1,8 +1,6 @@
 speedjscss
 ==========
 
-
-
 <dl class="dl-horizontal">
   <dt>关于 SpeedJSCSS</dt>
   <dd>SpeedJSCSS 是一个JS和CSS资源合并压缩脚本
