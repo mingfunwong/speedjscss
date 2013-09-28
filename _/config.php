@@ -1,0 +1,22 @@
+<?php
+// CONFIG
+
+// ÊÇ·ñÑ¹Ëõ
+define('IS_MINIFY', TRUE);
+// ÊÇ·ñ»º´æ
+define('IS_CAHCE', TRUE);
+// ÊÇ·ñ±£´æ´íÎó¼ÇÂ¼
+define('IS_ERROR', TRUE);
+// Ä¬ÈÏcdnµØÖ·
+define('DIR_CDN', '../');
+// »º´æÇý¶¯
+define('CACHE_DRIVER', 'memcache'); // file,memcache
+// »º´æÄ¿Â¼
+define('DIR_CACHE', 'cache/');
+// ´íÎóÎÄ¼þ
+define('ERROR_FILE', 'error.log');
+
+// MEMCACHEÅäÖÃ£¬Èç¹ûÑ¡ÔñMEMCACHE»º´æÇëÉèÖÃ
+define('MC_HOSTNAME', 'localhost');
+define('MC_HOSTPORT', 11211);
+define('MC_PREFIX', 'SpeedJSCSS_');
