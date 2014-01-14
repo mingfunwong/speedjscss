@@ -7,10 +7,9 @@
  * <script type="text/javascript" src="http://localhots/_/?2013,js/jquery/jquery-1.6.1.min.js,js/jquery/ui/jquery-ui-1.8.9.custom.min.js,js/common.js></script>
  * </head>
  * 
- * @author Mingfun Wong <mingfunw@gmail.com>
- * @copyright 2013 Mingfun Wong <mingfunw@gmail.com>
+ * @author Mingfun Wong <mingfun.wong.chn@gmail.com>
  * @license http://opensource.org/licenses/mit-license.php MIT License
- * @version 1.0 (2013-09-10)
+ * @version 2013-09-10
  */
 
 define('SPEEDJSCSS_ROOT', dirname(__FILE__));
