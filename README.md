@@ -5,8 +5,6 @@ speedjscss
   <dt>关于 SpeedJSCSS</dt>
   <dd>SpeedJSCSS 是一个JS和CSS资源合并压缩脚本
   </dd>
-  <dt>官方网站</dt>
-  <dd>http://mingfunwong.com/speedjscss</dd>
   <dt>使用指南</dt>
   <dd>http://mingfunwong.com/speedjscss</dd>
 </dl>
@@ -14,8 +12,6 @@ speedjscss
 在一个页面中，每一个外部JS及CSS文件都会导致一个额外的HTTP请求。所以，如何合理的合并JS文件及CSS文件也是前端工程师应该考虑的。
 
 SpeedJSCSS正是一款JS和CSS合并压缩工具，用于合并多个文件在一个响应报文中。SpeedJSCSS从JS和CSS文件中合并文件、剔除注释和没用的空格 ，它的特点就是能减少文件的数量和大小，从而加快下载速度，它能降低消除下载的成本。
-
-![speedjscss](http://ww4.sinaimg.cn/mw690/b76ab3afgw1e8hoj8ns4qg20h30jgtav.gif)
 
 ## 使用指南 ##
 
